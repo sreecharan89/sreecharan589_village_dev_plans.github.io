@@ -1,1 +1,1 @@
-# village_dev_plans.github.io
+# village_dev_plans
